@@ -24,7 +24,7 @@ This project implements a fraud detection model that analyzes transaction data t
 
 ```bash
 # Clone the repository
-git clone https://github.com/Arjun-Regmi-Chhetri/fraud-detection-using-machine-learning.git
+git clone https://github.com/deepaksharma79/fraud-detection-using-machine-learning.git
 cd fraud-detection-using-machine-learning
 
 # Create virtual environment (recommended)
